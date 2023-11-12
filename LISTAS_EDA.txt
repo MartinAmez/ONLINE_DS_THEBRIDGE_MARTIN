@@ -1,0 +1,8 @@
+## PROYECTOS EDA (Exploratory data analysis)
+
+1. Fraude con tarjeta de credito, transacciones y movimientos bancarios
+2. Prediccion trafico, red semafórica y flujo de movimiento de vehiculos
+3. Aumento de las mareas, datos de temperatura y corrientes marinas de los ultimos años
+4. Mejoras y progremos en deportistas de elite, datos de su condicion fisica-emocional, estadisticas de juego
+5. Gustos de los usuarios por temporada/ubicacion, datos de ventas en tiendas online como amazon
+6. Modulacion de voz, muestreo de cantantes en spotify o youtube
