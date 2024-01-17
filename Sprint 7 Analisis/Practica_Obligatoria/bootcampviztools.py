@@ -8,7 +8,7 @@ def pinta_distribucion_categoricas(df, columnas_categoricas, relativa=False, mos
     num_columnas = len(columnas_categoricas)
     num_filas = (num_columnas // 2) + (num_columnas % 2)
 
-    fig, axes = plt.subplots(num_filas, 2, figsize=(15, 5 * num_filas))
+    fig, axes = plt.subplots(num_filas, 2, figsize=(10, 5 * num_filas))
     axes = axes.flatten() 
 
     for i, col in enumerate(columnas_categoricas):
